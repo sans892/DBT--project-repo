@@ -12,3 +12,16 @@ sources:
 
       - name: reviews
         identifier: raw_reviews
+
+      - name: customer
+        identifier: raw_customer
+
+      - name: stg_Employees
+        identifier: Employee
+
+      -  name: stg_hr_emp
+         identifier: raw_hr_employees
+
+      -  name: sales
+         identifier: sales_us
+      
